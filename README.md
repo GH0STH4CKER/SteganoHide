@@ -16,6 +16,7 @@ To extract the hidden image from the resulting image, we reverse the process. We
 
 ## Example :
 ### Cover Image :
-![steg_nessi](https://github.com/GH0STH4CKER/SteganoHide/assets/62290930/96d3a282-2fbd-4163-9c1e-eaa20187168e)
+<img src="https://github.com/GH0STH4CKER/SteganoHide/assets/62290930/96d3a282-2fbd-4163-9c1e-eaa20187168e" alt="steg_nessi" width="300"/>
+
 ### Hidden Image:
 ![download](https://github.com/GH0STH4CKER/SteganoHide/assets/62290930/aae98556-7571-4520-9b0c-b8ca2313ecaa)
