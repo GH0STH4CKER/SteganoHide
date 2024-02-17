@@ -13,3 +13,9 @@ When hiding an image within another image, we manipulate the RGB values of each 
 ### Extracting the Hidden Image
 
 To extract the hidden image from the resulting image, we reverse the process. We retrieve the LSBs of the RGB values of each pixel from the output image. These LSBs contain the hidden image's data. By extracting and reconstructing these LSBs, we can recover the hidden image.
+
+## Example :
+### Cover Image :
+![steg_nessi](https://github.com/GH0STH4CKER/SteganoHide/assets/62290930/96d3a282-2fbd-4163-9c1e-eaa20187168e)
+### Hidden Image:
+![download](https://github.com/GH0STH4CKER/SteganoHide/assets/62290930/aae98556-7571-4520-9b0c-b8ca2313ecaa)
